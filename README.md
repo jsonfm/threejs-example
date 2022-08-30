@@ -5,3 +5,8 @@ A simple threejs app.
 ```
 npm run build
 ```
+
+## Deploy
+```
+sh deploy.sh
+```
